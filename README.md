@@ -1,0 +1,1 @@
+# 使用 nvidia-smi 获取 GPU 信息
